@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Oro-de-ley/static/css/main.965722fa.css",
-    "main.js": "/Oro-de-ley/static/js/main.31b39500.js",
+    "main.js": "/Oro-de-ley/static/js/main.ca4d4dbb.js",
     "static/js/453.611401ee.chunk.js": "/Oro-de-ley/static/js/453.611401ee.chunk.js",
     "index.html": "/Oro-de-ley/index.html",
     "main.965722fa.css.map": "/Oro-de-ley/static/css/main.965722fa.css.map",
-    "main.31b39500.js.map": "/Oro-de-ley/static/js/main.31b39500.js.map",
+    "main.ca4d4dbb.js.map": "/Oro-de-ley/static/js/main.ca4d4dbb.js.map",
     "453.611401ee.chunk.js.map": "/Oro-de-ley/static/js/453.611401ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.965722fa.css",
-    "static/js/main.31b39500.js"
+    "static/js/main.ca4d4dbb.js"
   ]
 }
